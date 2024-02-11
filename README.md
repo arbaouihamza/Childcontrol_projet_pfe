@@ -1,5 +1,22 @@
 # Childcontrol_projet_pfe
 ## APPLICATIONS MOBILE ET DESKTOP DE SURVEILLANCE DE TÉLÉPHONE BASÉES SUR  LE TEXT MINING
+Les parents sont de plus en plus préoccupés par les activités en ligne de leurs enfants et cherchent des
+moyens de les protéger des dangers tels que le cyberharcèlement, le contenu inapproprié ou les
+prédateurs en ligne. Toutefois, avec la quantité croissante de messages échangés quotidiennement, il
+devient difficile pour les parents de tout lire et de tout surveiller de manière efficace.
+Dans le cadre de notre projet, nous avons adopté une approche ciblée pour répondre à cette
+problématique. Plutôt que de fournir aux parents l'intégralité des messages de leurs enfants, nous avons
+développé une application qui utilise des techniques de text mining pour filtrer et présenter uniquement
+les messages les plus importants. Ces messages sélectionnés offrent aux parents une vision claire des
+comportements et des transactions de leur enfant, leur permettant ainsi de mieux comprendre et de
+réagir aux situations critiques.
+En mettant en œuvre cette méthode, nous avons pour objectif de faciliter la tâche des parents en leur
+fournissant des informations essentielles, tout en respectant la vie privée de l'enfant. Notre solution vise
+à offrir une expérience utilisateur efficace et pratique, permettant aux parents de rester informés et de
+veiller à la sécurité en ligne de leurs enfants sans pour autant envahir leur vie privée.
+Dans le cadre méthodologique de notre programme d'études, nous sommes tenus de réaliser un projet
+de fin d'études visant à développer une application contribuant à la surveillance des téléphones des
+enfants
 
 ### Objectif du projet
 Dans ce PFE nous nous intéressons aux techniques de Text Mining qui traitement des messages pour
