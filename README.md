@@ -21,3 +21,7 @@ avec une carte interactive.
 * Application utilisera des techniques de text mining pour analyser les messages texte.
 * Données textuelles seront traitées à l'aide d'algorithmes de classification pour détecter les
 tendances et les schémas comportementaux.
+### Demonstration
+
+https://github.com/arbaouihamza/Childcontrol_projet_pfe/assets/122358729/8915a5d9-6a65-471c-985f-4f535ecfbe76
+
